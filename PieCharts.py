@@ -1,6 +1,7 @@
+#PieChart
 import matplotlib.pyplot as plt
 
-#PieChart
+
 labels = 'Python', 'C++', 'Ruby', 'PHP', 'Java', 'Perl'
 sizes = [33, 52, 12, 57, 62, 28]
 separated = (.2, .05, .05, .05, .05, .05)
